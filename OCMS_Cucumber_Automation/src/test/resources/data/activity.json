@@ -1,0 +1,302 @@
+{
+    "data": {
+        "content_type": "Text Module",
+        "activity_url": "CE-CME/infectious-disease/Copy_193_activity-zen-194-enrollement-code/25346",
+        "steps": {
+            "pretest": [
+                {
+                    "map_question_uuid": "8C47AF69-7D08-4A06-85DD-2BE0FAFAE18C",
+                    "map_question_id": 1367,
+                    "question_bank_id": 599,
+                    "assessment_id": 72,
+                    "display_inside_content_only": 0,
+                    "question_type_id": "Single Select",
+                    "answerOptions": [
+                        {
+                            "id": 2192,
+                            "correct_answer": 0,
+                            "sort_order": 100
+                        },
+                        {
+                            "id": 2193,
+                            "correct_answer": 1,
+                            "sort_order": 200
+                        },
+                        {
+                            "id": 2194,
+                            "correct_answer": 0,
+                            "sort_order": 300
+                        },
+                        {
+                            "id": 2195,
+                            "correct_answer": 0,
+                            "sort_order": 400
+                        }
+                    ],
+                    "group_id": null
+                },
+                {
+                    "map_question_uuid": "7D29035D-F550-4CAF-943F-11B4A515935A",
+                    "map_question_id": 1368,
+                    "question_bank_id": 600,
+                    "assessment_id": 72,
+                    "display_inside_content_only": 0,
+                    "question_type_id": "Single Select",
+                    "answerOptions": [
+                        {
+                            "id": 2196,
+                            "correct_answer": 0,
+                            "sort_order": 100
+                        },
+                        {
+                            "id": 2197,
+                            "correct_answer": 1,
+                            "sort_order": 200
+                        },
+                        {
+                            "id": 2198,
+                            "correct_answer": 0,
+                            "sort_order": 300
+                        },
+                        {
+                            "id": 2199,
+                            "correct_answer": 0,
+                            "sort_order": 400
+                        }
+                    ],
+                    "group_id": null
+                },
+                {
+                    "map_question_uuid": "CABE2C90-60B4-4910-8F2B-32200E4626F7",
+                    "map_question_id": 44080,
+                    "question_bank_id": 29968,
+                    "assessment_id": 72,
+                    "display_inside_content_only": 0,
+                    "question_type_id": "Single Select",
+                    "answerOptions": [
+                        {
+                            "id": 94299,
+                            "correct_answer": 0,
+                            "sort_order": 100
+                        },
+                        {
+                            "id": 94300,
+                            "correct_answer": 0,
+                            "sort_order": 200
+                        },
+                        {
+                            "id": 94301,
+                            "correct_answer": 1,
+                            "sort_order": 300
+                        }
+                    ],
+                    "group_id": null
+                }
+            ],
+            "posttest": [
+                {
+                    "map_question_uuid": "3AAA6919-32F7-4E06-AECA-18B86E74974E",
+                    "map_question_id": 744,
+                    "question_bank_id": 312,
+                    "assessment_id": 34,
+                    "display_inside_content_only": 0,
+                    "question_type_id": "Single Select",
+                    "answerOptions": [
+                        {
+                            "id": 1326,
+                            "correct_answer": 0,
+                            "sort_order": 100
+                        },
+                        {
+                            "id": 1327,
+                            "correct_answer": 0,
+                            "sort_order": 200
+                        },
+                        {
+                            "id": 1328,
+                            "correct_answer": 0,
+                            "sort_order": 300
+                        },
+                        {
+                            "id": 1329,
+                            "correct_answer": 0,
+                            "sort_order": 400
+                        },
+                        {
+                            "id": 1330,
+                            "correct_answer": 0,
+                            "sort_order": 500
+                        },
+                        {
+                            "id": 1331,
+                            "correct_answer": 0,
+                            "sort_order": 600
+                        },
+                        {
+                            "id": 1332,
+                            "correct_answer": 1,
+                            "sort_order": 700
+                        }
+                    ],
+                    "group_id": null
+                },
+                {
+                    "map_question_uuid": "CEFD6F59-9996-47FA-B973-E5F7C4392BF4",
+                    "map_question_id": 745,
+                    "question_bank_id": 313,
+                    "assessment_id": 34,
+                    "display_inside_content_only": 0,
+                    "question_type_id": "Single Select",
+                    "answerOptions": [
+                        {
+                            "id": 1333,
+                            "correct_answer": 0,
+                            "sort_order": 100
+                        },
+                        {
+                            "id": 1334,
+                            "correct_answer": 1,
+                            "sort_order": 200
+                        }
+                    ],
+                    "group_id": null
+                },
+                {
+                    "map_question_uuid": "57638A3A-9566-4CA0-88FD-B85BE19DD910",
+                    "map_question_id": 746,
+                    "question_bank_id": 314,
+                    "assessment_id": 34,
+                    "display_inside_content_only": 0,
+                    "question_type_id": "Single Select",
+                    "answerOptions": [
+                        {
+                            "id": 1335,
+                            "correct_answer": 0,
+                            "sort_order": 100
+                        },
+                        {
+                            "id": 1336,
+                            "correct_answer": 0,
+                            "sort_order": 200
+                        },
+                        {
+                            "id": 1337,
+                            "correct_answer": 0,
+                            "sort_order": 300
+                        },
+                        {
+                            "id": 1338,
+                            "correct_answer": 0,
+                            "sort_order": 400
+                        },
+                        {
+                            "id": 1339,
+                            "correct_answer": 0,
+                            "sort_order": 500
+                        },
+                        {
+                            "id": 1340,
+                            "correct_answer": 1,
+                            "sort_order": 600
+                        },
+                        {
+                            "id": 1341,
+                            "correct_answer": 0,
+                            "sort_order": 700
+                        }
+                    ],
+                    "group_id": null
+                }
+            ],
+            "evaluation": [
+                {
+                    "map_question_uuid": "6AD9249B-E8AE-4C63-B0B7-44571122F32F",
+                    "map_question_id": 40735,
+                    "question_bank_id": 29301,
+                    "assessment_id": 11447,
+                    "display_inside_content_only": 0,
+                    "question_type_id": "Single Select",
+                    "answerOptions": [
+                        {
+                            "id": 91055,
+                            "correct_answer": 0,
+                            "sort_order": 1
+                        },
+                        {
+                            "id": 91057,
+                            "correct_answer": 0,
+                            "sort_order": 2
+                        },
+                        {
+                            "id": 91059,
+                            "correct_answer": 0,
+                            "sort_order": 3
+                        },
+                        {
+                            "id": 91061,
+                            "correct_answer": 0,
+                            "sort_order": 4
+                        },
+                        {
+                            "id": 91063,
+                            "correct_answer": 0,
+                            "sort_order": 5
+                        },
+                        {
+                            "id": 91065,
+                            "correct_answer": 0,
+                            "sort_order": 6
+                        }
+                    ],
+                    "group_id": null
+                }
+            ],
+            "content": [
+                {
+                    "map_question_uuid": "BF49CE93-F1E7-4FEB-86F7-574A865BF347",
+                    "map_question_id": 1366,
+                    "question_bank_id": 598,
+                    "assessment_id": 72,
+                    "display_inside_content_only": 1,
+                    "question_type_id": "Single Select",
+                    "answerOptions": [
+                        {
+                            "id": 2188,
+                            "correct_answer": 0,
+                            "sort_order": 100
+                        },
+                        {
+                            "id": 2189,
+                            "correct_answer": 0,
+                            "sort_order": 200
+                        },
+                        {
+                            "id": 2190,
+                            "correct_answer": 1,
+                            "sort_order": 300
+                        },
+                        {
+                            "id": 2191,
+                            "correct_answer": 0,
+                            "sort_order": 400
+                        }
+                    ],
+                    "group_id": null
+                }
+            ],
+            "content-text": "true"
+        }
+    },
+    "status": "1",
+    "message": "Data fetched successfully",
+    "apix": {
+        "partner": {
+            "logo": "https://omni-channel-2022-assets-icuat.s3.amazonaws.com/medialibrary/00001/E46E656C-7A92-435A-8260-3EC3ED3F8C4E.png",
+            "favicon": "https://omni-channel-2022-assets-icuat.s3.amazonaws.com/medialibrary/00001/DADE8274-0E38-48BE-B34F-3824A6D963C5.png",
+            "id": 1,
+            "brand_color": "#f15d22",
+            "last_updated": "2023-05-02 11:44:31",
+            "partnername": "CCO"
+        }
+    }
+}
